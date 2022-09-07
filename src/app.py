@@ -1,2 +1,2 @@
 # code
-print("Welcome to GeeksForGeeks!")
+print("Welcome to GeeksForGeeks!")   # noqa: F821
